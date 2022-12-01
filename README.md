@@ -1,6 +1,6 @@
 ### Hi there,  I'm Hwadam 👋
  
- 📫 How to reach me: ghkeka111@gmail.com
+- 📫 How to reach me: ghkeka111@gmail.com
 <!--
 **Damm06/Damm06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
