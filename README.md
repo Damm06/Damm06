@@ -9,7 +9,7 @@ Welcome to my page!
 
 I'm Hwadam, Back-end developer.
 
-I've lived in the Netherlands, Ireland, and Singapore, and I am currently residing in South Korea.
+I've lived in the Netherlands, Ireland, and Singapore, and I am currently residing in 🇰🇷 South Korea.
 
 I'd love to learn new stuff.
 
