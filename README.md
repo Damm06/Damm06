@@ -7,7 +7,7 @@
 	<h3> Hello! 👋 Nice to see you.  </h3>
 Welcome to my page!
 
-I'm Hwadam, Back-end developer.
+I'm Hwadam, a developer specializing in Mobile App Development using Flutter.
 
 I've lived in the Netherlands, Ireland, and Singapore, and I am currently residing in 🇰🇷 South Korea.
 
@@ -24,12 +24,14 @@ Thanks for visiting :)
 	<p>✨ Skills ✨</p>
 </div>
 <div align="center">
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
+ <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+ <br>
  <img src="https://img.shields.io/badge/JPA-009639?style=flat&logo=SpringBoot&logoColor=white" />
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
- <br>
  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat" />
  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat" />
  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat" />
